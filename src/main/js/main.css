@@ -1,0 +1,30 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+ol, ul {
+    padding-left: 30px;
+}
+
+label, button {
+    font-family: inherit;
+}
+.status {
+    margin: 10px;
+    font-size:20px;
+
+}
+.error {
+    margin: 10px;
+    font-size:20px;
+    color: red;
+
+}
+.title {
+    margin-bottom: 10px;
+    font-size:34px;
+}
+.container {
+    text-align: center;
+}
